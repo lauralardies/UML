@@ -17,6 +17,16 @@ Ejercicio 12: Definir el diagrama de clases correspondiente a una estructura arq
 
 Ejercicio 13: Tras observar el diagrama de objetos de un polígono (enunciado) define un diagrama de objetos sobre un polígono, suponiendo que un punto solo puede pertenecer a un único polígono.
 
+Ejercicio 14: Definir un diagrama con el anterior ejercicio para que dos triángulos tengan un lado común.
+
+Ejercicio 15: Modificar el ejercicio 13 de forma que un punto pertenezca a varios polígonos, y hacerlo en el diagrama del ejercicio 14.
+
+Ejercicio 16: A partir de la persona del ejercicio 6 y el diagrama del ejercicio 2, añadir asociaciones, cardinalidades y roles para modelar las relaciones familiares.
+
+Ejercicio 17: Crear un modelo de clases a partir de los datos proporcionados por el enunciado.
+
+Ejercicio 18: A partir del ejercicio 5, definir una jerarquía de clases usando el concepto de generalización.
+
 Ejercicio 19: Corregir y completar el diagrama añadiendo la restauración, ya que hay que tener en cuenta que los objetos arqueológicos la suelen sufrir.
 
 Ejercicio 20: Crear un diagrama con las pautas que nos da el programa, definiendo bien la estructura. Aquí no es importante los atributos de las clases.
