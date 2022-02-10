@@ -17,6 +17,16 @@ Ejercicio 12: Definir el diagrama de clases correspondiente a una estructura arq
 
 Ejercicio 13: Tras observar el diagrama de objetos de un polígono (enunciado) define un diagrama de objetos sobre un polígono, suponiendo que un punto solo puede pertenecer a un único polígono.
 
+Ejercicio 19: Corregir y completar el diagrama añadiendo la restauración, ya que hay que tener en cuenta que los objetos arqueológicos la suelen sufrir.
+
+Ejercicio 20: Crear un diagrama con las pautas que nos da el programa, definiendo bien la estructura. Aquí no es importante los atributos de las clases.
+
+Ejercicio 21: Crear un diagrama con las pautas esta vez con su adecuada estructura y sus respectivos atributos.
+
+Ejercicio 22: Definir un modelo para representar la riqueza arquitectónica de las fachadas de los edificios. Nos dan una serie de pautas y nosotros deberemos de escoger los atributos.
+
+Ejercicio 23: Definir un diagrama utilizando un patrón concreto además de relacionar los conceptos de edificio y conjunto construido.
+
 Ejercicio 24: Consiste en demostrar mediante un diagrama que un mismo edificio puede ser cosas distintas en tiempos distintos e incluso, al mismo tiempo.
 
 Ejercicio 25: Construye un diagrama de clases que recoja las características de las definiciones dadas de "libro" y "muestra". Seguidamente, añadimos la definición formal de cada clase.
