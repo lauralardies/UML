@@ -13,6 +13,18 @@ Ejercicio 4: Elabora un diagrama de objetos a partir de la descripción (enuncia
 
 Ejercicio 5: Sobre el ejercicio 1, ahora no damos valores concretos, sino que definimos las clases y atributos de las figuras.
 
+Ejercicio 6: Elaborar un diagrama a partir del enunciado con sus clases y atributos correspondientes.
+
+Ejercicio 7: Elaborar un diagrama con las caracteristicas de los proyectos que habitualmente participo definiendo clases.
+
+Ejercicio 8: Definir las clases correspondientes sobre una actuación arqueologicas.
+
+Ejercicio 9: Definir un diagrama de clases a partir de la foto de la Gioconda.
+
+Ejercicio 10: Definir las asociaciones a partir del ejercicio 7.
+
+Ejercicio 11: Definir un diagrama de clases con con asociaciones, cardinalidades y roles.
+
 Ejercicio 12: Definir el diagrama de clases correspondiente a una estructura arqueológica que se identifica mediante un código, tiene una datación, está compuesta de ciertos materiales y puede estar compuesta por otras estructuras.
 
 Ejercicio 13: Tras observar el diagrama de objetos de un polígono (enunciado) define un diagrama de objetos sobre un polígono, suponiendo que un punto solo puede pertenecer a un único polígono.
